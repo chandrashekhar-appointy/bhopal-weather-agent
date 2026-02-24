@@ -1,3 +1,3 @@
-## Weather in Bhopal, Madhya Pradesh 🌦️
+## Current Weather in Bhopal, Madhya Pradesh ☀️
 
-The current temperature is 28.8°C 🌡️ with a windspeed of 5.8 km/h 🌬️.
+Today, the temperature is 29.7°C 🌡️ with a windspeed of 5.8 km/h  breezy! 🍃
